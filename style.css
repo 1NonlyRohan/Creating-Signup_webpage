@@ -62,10 +62,23 @@ a:hover{
 
 #p2 {
     position: absolute;
-    margin: 60px 50px 50px 200px;
+    margin: 180px 50px 50px 200px;
 }
 
 .foot h1 {
     position: absolute;
-    margin: 100px 0px 0px 500px;
+    margin: 240px 0px 0px 500px;
+}
+
+.red-dabba {
+    height: 100px;
+    width: 800px;
+    position: absolute;
+    background-color: rgb(230, 156, 156);
+    margin: 60px 10px 10px 200px;
+}
+
+.red-dabba p {
+    padding: 20px 230px 0px 150px;
+    font-size: 20px;
 }
