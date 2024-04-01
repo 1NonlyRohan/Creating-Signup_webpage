@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    outline: 0;
+    font-family: josefin sans;
+}
+
+body{
+    background-color: rgb(245, 231, 213);
+}
+
+.head h1 {
+    padding: 50px 50px 30px 500px;
+    display: inline-block;
+    font-size: 40px;
+}
+
+.form label {
+    font-size: 18px;
+    font-family: math;
+    margin: 10px 10px 10px 200px;
+    display: block;
+    padding: 5px 0px 5px 0px;
+}
+
+.form #text {
+    width: 800px;
+    margin: 0px 0px 0px 200px;
+    padding: 4px;
+}
+
+.form #checkout {
+    display: block;
+    margin: 20px 10px 10px 200px;
+    position: absolute;
+}
+
+#p1 {
+    position: absolute;
+    margin: 6px 0px 0px 30px;
+    font-size: 15px;
+}
+
+button {
+    border: 0;
+    color: white;
+    background-color: royalblue;
+    position: absolute;
+    margin: 20px 0px 0px 200px;
+    width: 800px;
+    padding: 3px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+a:hover{
+    color: blue;
+    font-weight: 600;
+}
+
+#p2 {
+    position: absolute;
+    margin: 60px 50px 50px 200px;
+}
+
+.foot h1 {
+    position: absolute;
+    margin: 100px 0px 0px 500px;
+}
